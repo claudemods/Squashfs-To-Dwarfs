@@ -32,7 +32,7 @@ to use select a compression option and let the script do the rest compress upto 
 
  
 <div align="center">
-	in most cases 700mb is compressed with max compression
+	in most cases a further 700mb is compressed with max compression e.g 2.4gb Squashfs will become a 1.7gb Dwarfs
   
 
 <div align="center">
