@@ -28,7 +28,7 @@ the squashfs needs to be present in same directory as script and called filesyst
 
 
 <div align="center">
-to use select a compression option and let the script do the rest compress upto a further 1gb 
+to use select a compression option and let the script do the rest compress upto a further 1gb+
 
  
 <div align="center">
