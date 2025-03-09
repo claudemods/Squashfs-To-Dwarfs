@@ -29,4 +29,5 @@ to use select a compression option and let the script do the rest compress upto 
   
 
 <div align="center">
+	
 ![2025-03-09-221556_hyprshot](https://github.com/user-attachments/assets/4e27ff29-d386-46fd-a420-205d586fa9b8)
