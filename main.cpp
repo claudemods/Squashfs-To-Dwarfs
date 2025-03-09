@@ -11,7 +11,7 @@
 namespace fs = std::filesystem;
 
 void print_banner() {
-    std::string version_message = "Claudemods Dwarfs Converter v1.01 This Will Take A while!!!";
+    std::string version_message = "Claudemods Squashfs Converter To Dwarfs v1.01 This Will Take A while!!!";
 
     std::cout << "\033[31m" << R"(
 ░█████╗░██╗░░░░░░█████╗░██╗░░░██╗██████╗░███████╗███╗░░░███╗░█████╗░██████╗░░██████╗
