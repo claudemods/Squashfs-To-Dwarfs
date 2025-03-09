@@ -21,7 +21,10 @@
 </div>
 
 <div align="center">
-  claudemods squashfs to dwarfs creator currently in v1.01 the squashfs needs to be present in same directory as script and called filesystem.sfs
+  claudemods squashfs to dwarfs creator currently in v1.01 
+
+ <div align="center">
+the squashfs needs to be present in same directory as script and called filesystem.sfs
 
 
 <div align="center">
